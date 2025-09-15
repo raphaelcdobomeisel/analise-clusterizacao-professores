@@ -1,0 +1,15 @@
+# Ambiente Virtual
+.venv/
+venv/
+__pycache__/
+
+# Arquivos de Dados (NÃO suba dados grandes para o Git)
+*.xls
+*.xlsx
+*.csv
+
+# Arquivos de Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de Sistema
+.DS_Store
