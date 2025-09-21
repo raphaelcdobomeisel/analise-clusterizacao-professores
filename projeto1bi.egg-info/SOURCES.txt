@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+data/app.py
+projeto1bi/__init__.py
+projeto1bi/utils.py
+projeto1bi.egg-info/PKG-INFO
+projeto1bi.egg-info/SOURCES.txt
+projeto1bi.egg-info/dependency_links.txt
+projeto1bi.egg-info/top_level.txt
+src/projeto1bi/__init__.py
+src/projeto1bi/utils.py

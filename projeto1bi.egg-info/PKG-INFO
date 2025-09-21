@@ -1,3 +1,10 @@
+Metadata-Version: 2.4
+Name: projeto1bi
+Version: 0.1.0
+Summary: Your PADSD project package
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
 # Análise de Clusterização de Professores
 
 Este projeto utiliza técnicas de machine learning não supervisionado (K-Means) para segmentar professores-usuários de uma plataforma educacional. O objetivo é identificar perfis de comportamento distintos para informar estratégias de engajamento e desenvolvimento de produto.

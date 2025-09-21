@@ -1,14 +1,13 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "projeto1bi"
 version = "0.1.0"
-description = "Add your description here"
+description = "Your PADSD project package"
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = [
-    "datetime>=5.5",
-    "matplotlib>=3.10.5",
-    "numpy>=2.3.2",
-    "pandas>=2.3.2",
-    "scikit-learn>=1.7.1",
-    "seaborn>=0.13.2",
-]
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["."]
